@@ -8,13 +8,13 @@ author_profile: true
 {% include base_path %}
 
 
-## 2022  
-* [POET: Towards Power-System-Aware E-Taxi Coordination under Dynamic Passenger Mobility].(http://www.ece.sunysb.edu/~yzhao/YZL_eEnergy22.pdf)
+## Conference Papers
+* [POET: Towards Power-System-Aware E-Taxi Coordination under Dynamic Passenger Mobility.](http://www.ece.sunysb.edu/~yzhao/YZL_eEnergy22.pdf)
     **Yukun Yuan**, Yue Zhao, and Shan Lin.      
     In <i>Thirteenth ACM International Conference on Future Energy Systems (ACM e-Energy)</i>, 2022.                           
-    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-10.1145/3538637.3538870');">bibtex</a>]
-<div id="bibtex-10.1145/3538637.3538870" style="display:none">
-<pre>@inproceedings{10.1145/3538637.3538870,
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-poet');">bibtex</a>]
+<div id="bibtex-poet" style="display:none">
+<pre>@inproceedings{poet,
 author = {Yuan, Yukun and Zhao, Yue and Lin, Shan},
 title = {POET: Towards Power-System-Aware e-Taxi Coordination under Dynamic Passenger Mobility},
 year = {2022},
@@ -124,4 +124,29 @@ series = {e-Energy '22}
   year={2018},
   organization={IEEE}
 }
+</pre></div>  
+
+
+## Journal Papers
+
+
+* DeResolver: A Decentralized Conflict Resolution Framework with Autonomous Negotiation for Smart City Services 
+    **Yukun Yuan**, Meiyi Ma, Songyang Han, Desheng Zhang, Fei Miao, John Stankovic, and Shan Lin.     
+    In <i>ACM Transactions on Cyber-Physical Systems.</i> (in preprint).                           
+
+
+
+* [eRoute: Mobility-Driven Integration of Heterogeneous Urban Cyber-Physical Systems under Disruptive Events
+
+](https://ieeexplore.ieee.org/document/9462550)    
+    **Yukun Yuan**, Fei Miao, John Stankovic, Tian He, George Pappas, and Shan Lin.    
+    In <i>IEEE Transactions on Mobile Computing</i>.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-eroute');">bibtex</a>]
+<div id="bibtex-eroute" style="display:none">
+<pre>@ARTICLE{eroute,  
+author={Yuan, Yukun and Zhang, Desheng and Miao, Fei and Stankovic, John A. and He, Tian and Pappas, George and Lin, Shan},  
+journal={IEEE Transactions on Mobile Computing},   
+title={eRoute: Mobility-Driven Integration of Heterogeneous Urban Cyber-Physical Systems under Disruptive Events},   
+year={2021},  volume={},  number={},  pages={1-1},  
+doi={10.1109/TMC.2021.3091324}}
 </pre></div>  
