@@ -139,9 +139,7 @@ series = {e-Energy '22}
 
 
 
-* [eRoute: Mobility-Driven Integration of Heterogeneous Urban Cyber-Physical Systems under Disruptive Events
-
-](https://ieeexplore.ieee.org/document/9462550)    
+* [eRoute: Mobility-Driven Integration of Heterogeneous Urban Cyber-Physical Systems under Disruptive Events](https://ieeexplore.ieee.org/document/9462550)    
     **Yukun Yuan**, Fei Miao, John Stankovic, Tian He, George Pappas, and Shan Lin.    
     In <i>IEEE Transactions on Mobile Computing</i>.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-eroute');">bibtex</a>]
