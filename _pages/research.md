@@ -1,11 +1,8 @@
 ---
-permalink: /
-title: "Yukun Yuan"
-excerpt: "Research"
+layout: archive
+title: "Research"
+permalink: /research/
 author_profile: true
-redirect_from: 
-  - /research/
-  - /research.html
 ---
 
 Decentralized Conflicts Resolution
