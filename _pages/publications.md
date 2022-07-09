@@ -107,7 +107,7 @@ series = {e-Energy '22}
 </pre></div>  
 
 * [p^2Charging: Proactive Partial Charging for Electric Taxi Systems](https://people.cs.rutgers.edu/~dz220/paper/p%5E2Charging.pdf)    
-    **Yukun Yuan**, Desheng Zhang, Fei Miao, Tian He, Jiming Chen, and Shan Lin.
+    **Yukun Yuan**, Desheng Zhang, Fei Miao, Tian He, Jiming Chen, and Shan Lin.  
     In <i>IEEE 39th International Conference on Distributed Computing Systems (ICDCS)</i>, 2019.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-8885097');">bibtex</a>]
 <div id="bibtex-8885097" style="display:none">
