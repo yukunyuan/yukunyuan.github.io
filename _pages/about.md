@@ -26,4 +26,4 @@ News
 - 12-2020: One paper accepted by [ICCPS 2021](https://iccps.acm.org/2021/).​
 - 01-2020: One paper accepted by [IoTDI 2020](https://conferences.computer.org/iotDI/2020/).
 
-<script type="text/javascript" id="clustrmaps" src="//clustrmaps.com/map_v2.js?d=4TTvGoYOGQIMzQ3K9Aorkpyn3ZlEhPALyJMes5xYZ04&cl=ffffff&w=a"></script>
+<a href="http://www.clustrmaps.com/map/Yukunyuan.org" title="Visit tracker for Yukunyuan.org"><img src="//www.clustrmaps.com/map_v2.png?d=4TTvGoYOGQIMzQ3K9Aorkpyn3ZlEhPALyJMes5xYZ04" /></a>
