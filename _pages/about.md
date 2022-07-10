@@ -7,11 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a Ph.D. student at Department of Electrical and Computer Engineering at Stony Brook University working with Professor [Shan Lin](https://www.ece.sunysb.edu/~slin/). I got my bachelor's degree of Science from Shanghai Jiao Tong University (SJTU) in 2015 with a major in Computer Science.
+I am an Tenure-Track Assistant Professor of the Department of Computer Science & Engineering, University of Tennessee at Chattanooga. I got my Ph.D. degree in Computer Engineering at Stony Brook University working with Professor [Shan Lin](https://www.ece.sunysb.edu/~slin/). I got my bachelor's degree of Science from Shanghai Jiao Tong University (SJTU) in 2015 with a major in Computer Science.
 
 My research interests are broadly in the areas of Cyber-Physical Systems, Internet of Things, Control, and Data Science.
 
-
+***Opening: I am looking for self-motivated PhD/master/undergraduate students to work with me on the area of Smart Cities. Please send me a short email with your C.V. and anything you believe relevant!***
 
 News
 ======
