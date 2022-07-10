@@ -25,5 +25,3 @@ News
 - 05-2021: Our paper won [Best Paper Award](https://iccps.acm.org/2021/program-2/) in ICCPS 2021.​
 - 12-2020: One paper accepted by [ICCPS 2021](https://iccps.acm.org/2021/).​
 - 01-2020: One paper accepted by [IoTDI 2020](https://conferences.computer.org/iotDI/2020/).
-
-<a href="http://www.clustrmaps.com/map/Yukunyuan.org" title="Visit tracker for Yukunyuan.org"><img src="//www.clustrmaps.com/map_v2.png?d=4TTvGoYOGQIMzQ3K9Aorkpyn3ZlEhPALyJMes5xYZ04" /></a>
