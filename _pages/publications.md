@@ -111,7 +111,13 @@ series = {e-Energy '22}
     In <i>IEEE 39th International Conference on Distributed Computing Systems (ICDCS)</i>, 2019.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-8885097');">bibtex</a>]
 <div id="bibtex-8885097" style="display:none">
-<pre>@INPROCEEDINGS{8885097,  author={Yuan, Yukun and Zhang, Desheng and Miao, Fei and Chen, Jimin and He, Tian and Lin, Shan},  booktitle={2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS)},   title={p^2Charging: Proactive Partial Charging for Electric Taxi Systems},   year={2019},  volume={},  number={},  pages={688-699},  doi={10.1109/ICDCS.2019.00074}}
+<pre>@INPROCEEDINGS{8885097,  
+author={Yuan, Yukun and Zhang, Desheng and Miao, Fei and Chen, Jimin and He, Tian and Lin, Shan},  
+booktitle={2019 IEEE 39th International Conference on Distributed Computing Systems (ICDCS)},   
+title={p^2Charging: Proactive Partial Charging for Electric Taxi Systems},   
+year={2019}, 
+pages={688-699},  
+doi={10.1109/ICDCS.2019.00074}}
 </pre></div>  
 
 * [Dynamic Integration of Heterogeneous Transportation Modes under Disruptive Events](https://people.cs.rutgers.edu/~dz220/paper/p%5E2Charging.pdf)    
