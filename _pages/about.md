@@ -11,7 +11,8 @@ I am an incoming Tenure-Track Assistant Professor of the Department of Computer 
 
 My research interests are broadly in the areas of Cyber-Physical Systems, Internet of Things, Control, and Data Science.
 
-***Opening: I am looking for self-motivated PhD/master/undergraduate students to work with me on the area of Smart Cities. Please send me a short email with your C.V. and anything you believe relevant!***
+
+<mark >Opening: I am looking for self-motivated PhD/master/undergraduate students to work with me on the area of Smart Cities. Please send me a short email with your C.V. and anything you believe relevant!</mark>  
 
 News
 ======
