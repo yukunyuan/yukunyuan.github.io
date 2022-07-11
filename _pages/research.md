@@ -12,7 +12,7 @@ author_profile: true
 
 <img src="/images/deresolver figure.png" title="Example of conflicts" style="float:left;width:300pt;padding-right:10px;" />
 
-We study the problem of addressing the conflicts across services in urban cities. We design a decentralized negotiation and conflict resolution framework named DeResolver, which allows services to resolve conflicts by communicating and negotiating with each other to reach a Pareto-optimal agreement autonomously and efficiently. Our design features a two-level semi-supervised learning-based algorithm to predict acceptable proposals and their rankings of each opponent through the negotiation. [ICCPS 2021, TCPS] <br />
+We study the problem of addressing the conflicts across services in urban cities. We design a decentralized negotiation and conflict resolution framework named DeResolver, which allows services to resolve conflicts by communicating and negotiating with each other to reach a Pareto-optimal agreement autonomously and efficiently. Our design features a two-level semi-supervised learning-based algorithm to predict acceptable proposals and their rankings of each opponent through the negotiation. [ICCPS 2021, TCPS] <br /><br /><br /><br />
 
 ----
 ## Electric Taxi Charging Coordination​
@@ -25,7 +25,7 @@ Our analysis reveals that most e-taxi drivers charge their vehicles only when th
 <img src="/images/sac.png" title="sac" style="float:left;width:300pt;padding-left:10px;" />
 
 
-We aim to coordinate  an  e-taxi  fleet  for  optimizing  charging  cost with both  conventional  and  renewable  energy  while maintaining the taxi service quality. We  propose  SAC,  an  e-taxi  fleet  coordination  framework to  dispatch  e-taxis  for  either  charging  or  serving passengers  under spatio-temporal  dynamics  of  renewable  energy  and passenger mobility. [CDC 2021, ACC 2022]
+We aim to coordinate  an  e-taxi  fleet  for  optimizing  charging  cost with both  conventional  and  renewable  energy  while maintaining the taxi service quality. We  propose  SAC,  an  e-taxi  fleet  coordination  framework to  dispatch  e-taxis  for  either  charging  or  serving passengers  under spatio-temporal  dynamics  of  renewable  energy  and passenger mobility. [CDC 2021, ACC 2022]<br /><br /><br />
 
 
 ----
