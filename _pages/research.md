@@ -12,14 +12,14 @@ author_profile: true
 
 <img src="/images/deresolver figure.png" title="Example of conflicts" style="float:left;width:300pt;padding-right:10px;" />
 
-We study the problem of addressing the conflicts across services in urban cities. We design a decentralized negotiation and conflict resolution framework named DeResolver, which allows services to resolve conflicts by communicating and negotiating with each other to reach a Pareto-optimal agreement autonomously and efficiently. Our design features a two-level semi-supervised learning-based algorithm to predict acceptable proposals and their rankings of each opponent through the negotiation. [ICCPS 2021, TCPS]
+We study the problem of addressing the conflicts across services in urban cities. We design a decentralized negotiation and conflict resolution framework named DeResolver, which allows services to resolve conflicts by communicating and negotiating with each other to reach a Pareto-optimal agreement autonomously and efficiently. Our design features a two-level semi-supervised learning-based algorithm to predict acceptable proposals and their rankings of each opponent through the negotiation. [ICCPS 2021, TCPS] <br />
 
 ----
 ## Electric Taxi Charging Coordination​
 
 <img src="/images/p2charging.png" title="p2charging" style="float:left;width:300pt;padding-right:10px;" />
 
-Our analysis reveals that most e-taxi drivers charge their vehicles only when their batteries are low, and more than half of taxi drivers charge their batteries to full on each charge. To satisfy dynamic passenger demand, we propose a new charging strategy: proactive partial charging. We design the p2Charging framework that employs a receding horizon optimization approach to coordinate the charging process and the dispatch process tightly and simultaneously with real-time multi-source data. [ICDCS 2019]
+Our analysis reveals that most e-taxi drivers charge their vehicles only when their batteries are low, and more than half of taxi drivers charge their batteries to full on each charge. To satisfy dynamic passenger demand, we propose a new charging strategy: proactive partial charging. We design the p2Charging framework that employs a receding horizon optimization approach to coordinate the charging process and the dispatch process tightly and simultaneously with real-time multi-source data. [ICDCS 2019] <br /><br /><br />
 
 ----
 <img src="/images/sac.png" title="sac" style="float:left;width:300pt;padding-left:10px;" />
