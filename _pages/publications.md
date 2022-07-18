@@ -146,10 +146,26 @@ doi={10.1109/ICDCS.2019.00074}}
 ## Journal Papers
 
 
-* DeResolver: A Decentralized Conflict Resolution Framework with Autonomous Negotiation for Smart City Services 
+* [DeResolver: A Decentralized Conflict Resolution Framework with Autonomous Negotiation for Smart City Services](https://dl.acm.org/doi/abs/10.1145/3529096) 
     **Yukun Yuan**, Meiyi Ma, Songyang Han, Desheng Zhang, Fei Miao, John Stankovic, and Shan Lin.     
     In <i>ACM Transactions on Cyber-Physical Systems.</i> (in preprint).                           
-
+ [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-eroute');">bibtex</a>]
+<div id="bibtex-eroute" style="display:none">
+<pre>@article{10.1145/3529096,
+author = {Yuan, Yukun and Ma, Meiyi and Han, Songyang and Zhang, Desheng and Miao, Fei and Stankovic, John and Lin, Shan},
+title = {DeResolver: A Decentralized Conflict Resolution Framework with Autonomous Negotiation for Smart City Services},
+year = {2022},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {2378-962X},
+url = {https://doi.org/10.1145/3529096},
+doi = {10.1145/3529096},
+note = {Just Accepted},
+journal = {ACM Trans. Cyber-Phys. Syst.},
+month = {mar},
+keywords = {Smart Services, Decentralized Resolution, Conflicts across services, Multiple Services Negotiation.}
+}
+</pre></div>  
 
 
 * [eRoute: Mobility-Driven Integration of Heterogeneous Urban Cyber-Physical Systems under Disruptive Events](https://ieeexplore.ieee.org/document/9462550)    
