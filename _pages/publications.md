@@ -10,8 +10,15 @@ author_profile: true
 
 ## Conference Papers
 
+* [Game Theoretic Analysis of Urban E-Taxi Systems: Equilibria and Efficiency]()    
+    **Yukun Yuan**, Yue Zhao, Lin Chen, and Shan Lin.      
+   In <i>IEEE International Conference on Sensing, Communication, and Networking (IEEE SECON)</i>, 2022.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-poet');">bibtex</a>]
+<div id="bibtex-poet" style="display:none">
+<pre>
+</pre></div> 
 
-* [POET: Towards Power-System-Aware E-Taxi Coordination under Dynamic Passenger Mobility]([http://www.ece.sunysb.edu/~yzhao/YZL_ACC22.pdf](http://www.ece.sunysb.edu/~yzhao/YZL_eEnergy22.pdf))    
+* [POET: Towards Power-System-Aware E-Taxi Coordination under Dynamic Passenger Mobility](http://www.ece.sunysb.edu/~yzhao/YZL_eEnergy22.pdf)    
     **Yukun Yuan**, Yue Zhao, and Shan Lin.      
    In <i>Thirteenth ACM International Conference on Future Energy Systems (ACM e-Energy)</i>, 2022.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-poet');">bibtex</a>]
