@@ -146,7 +146,7 @@ doi={10.1109/ICDCS.2019.00074}}
 ## Journal Papers
 
 
-* [DeResolver: A Decentralized Conflict Resolution Framework with Autonomous Negotiation for Smart City Services](https://dl.acm.org/doi/abs/10.1145/3529096) 
+* [DeResolver: A Decentralized Conflict Resolution Framework with Autonomous Negotiation for Smart City Services](https://dl.acm.org/doi/abs/10.1145/3529096)
     **Yukun Yuan**, Meiyi Ma, Songyang Han, Desheng Zhang, Fei Miao, John Stankovic, and Shan Lin.     
     In <i>ACM Transactions on Cyber-Physical Systems.</i> (in preprint).                           
  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-eroute');">bibtex</a>]
