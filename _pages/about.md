@@ -12,7 +12,9 @@ I am a tenure-track assistant professor of the Department of Computer Science & 
 My research interests are broadly in the areas of Cyber-Physical Systems, Internet of Things, Control, and Data Science.
 
 
-<mark style="background-color: #D9E0FF">Opening: I am looking for self-motivated PhD/master/undergraduate students to work with me on the area of Smart Cities. Please send me a short email with your C.V. and anything you believe relevant!</mark>  
+<mark style="background-color: #D9E0FF">Opening: I am looking for self-motivated PhD/master/undergraduate students to work with me on the area of Smart Cities. Please send me a short email with your C.V. and anything you believe relevant!</mark> 
+
+Email: yukun-yuan AT utc.edu
 
 News
 ======
