@@ -185,7 +185,8 @@ doi={10.1109/TMC.2021.3091324}}
 
 
 * [Joint Rebalancing and Charging for Shared Electric Micromobility Vehicles with Human-system Interaction](https://dl.acm.org/doi/abs/10.1145/3529096).
-   Heng Tan, **Yukun Yuan**, Shuxin Zhong, and Yu Yang.     
+ 
+ Heng Tan, **Yukun Yuan**, Shuxin Zhong, and Yu Yang.     
     In <i>ACM/IEEE Internation Conference on Cyber-Physical Systems Work-in-Progress, 2023.</i>                           
   
 
