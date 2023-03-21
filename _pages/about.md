@@ -18,6 +18,7 @@ Email: yukun-yuan AT utc.edu
 
 News
 ======
+- 03-2022: One abstract paper accepted by ACM/IEEE [ICCPS 2023](https://iccps.acm.org/2023/).
 - 07-2022: One paper accepted by IEEE [SECON 2022](https://secon2022.ieee-secon.org/).
 - 05-2022: One paper accepted by ACM [e-Energy 2022](https://energy.acm.org/conferences/eenergy/2022/index.php).
 - 04-2022:  I am selected as one of the [CPS Rising Stars](https://cps-rising-stars2022.com/) at University of Virginia, 2022.
