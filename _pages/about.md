@@ -18,6 +18,7 @@ Email: yukun-yuan AT utc.edu
 
 News
 ======
+- 07-2023: One paper, produced through collaboration with researchers from Florida State University, accepted by ACM [Mobihoc 2023](https://www.sigmobile.org/mobihoc/2023/).
 - 05-2023: **Grant**: A project about urban 311 systems funded by the [CEACSE](https://www.utc.edu/research/ceacse/funding-opportunity-overview) seed grant.
 - 03-2023: One abstract paper accepted by ACM/IEEE [ICCPS 2023](https://iccps.acm.org/2023/).
 - 07-2022: One paper accepted by IEEE [SECON 2022](https://secon2022.ieee-secon.org/).
