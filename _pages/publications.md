@@ -12,7 +12,7 @@ author_profile: true
 
 * [Joint Rebalancing and Charging for Shared Electric Micromobility Vehicles with Energy-defined Demand]()    
    Heng Tan, **Yukun Yuan**, Shuxin Zhong, and Yu Yang.      
-   accepted by <i>32nd ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2022.                           
+   accepted by <i>32nd ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2023.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-poet');">bibtex</a>]
 <div id="bibtex-cikm" style="display:none">
 <pre>
