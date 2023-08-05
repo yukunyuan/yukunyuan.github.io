@@ -15,7 +15,14 @@ author_profile: true
    In <i>IEEE International Conference on Sensing, Communication, and Networking (IEEE SECON)</i>, 2022.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-poet');">bibtex</a>]
 <div id="bibtex-poet" style="display:none">
-<pre>
+<pre>@inproceedings{yuan2022game,
+  title={Game Theoretic Analysis of Urban E-Taxi Systems: Equilibria and Efficiency},
+  author={Yuan, Yukun and Zhao, Yue and Chen, Lin and Lin, Shan},
+  booktitle={2022 19th Annual IEEE International Conference on Sensing, Communication, and Networking (SECON)},
+  pages={379--387},
+  year={2022},
+  organization={IEEE}
+}
 </pre></div> 
 
 * [POET: Towards Power-System-Aware E-Taxi Coordination under Dynamic Passenger Mobility](http://www.ece.sunysb.edu/~yzhao/YZL_eEnergy22.pdf)    
