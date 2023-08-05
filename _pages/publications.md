@@ -46,10 +46,11 @@ author_profile: true
    In <i>Thirteenth ACM International Conference on Future Energy Systems (ACM e-Energy)</i>, 2022.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-poet');">bibtex</a>]
 <div id="bibtex-poet" style="display:none">
-<pre>@inproceedings{yuan2022source,
-  title={SOURCE: Towards Solar-Uncertainty-Aware E-Taxi Coordination under Dynamic Passenger Mobility},
+<pre>@inproceedings{yuan2022poet,
+  title={Poet: Towards power-system-aware e-taxi coordination under dynamic passenger mobility},
   author={Yuan, Yukun and Zhao, Yue and Lin, Shan},
-  booktitle={American Control Conference (ACC)},
+  booktitle={Proceedings of the Thirteenth ACM International Conference on Future Energy Systems},
+  pages={406--417},
   year={2022}
 }
 </pre></div> 
