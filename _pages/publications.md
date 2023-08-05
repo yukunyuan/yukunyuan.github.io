@@ -14,7 +14,7 @@ author_profile: true
    Heng Tan, **Yukun Yuan**, Shuxin Zhong, and Yu Yang.      
    accepted by <i>32nd ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2023.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cikm2023');">bibtex</a>]
-<div id="bibtex-cikm" style="display:none">
+<div id="bibtex-cikm2023" style="display:none">
 <pre>
 </pre></div> 
 
@@ -22,7 +22,7 @@ author_profile: true
     Hansong Zhou, Shaoyin Wang, Chutian Jiang, Xiaonan Zhang, Linke Guo, and **Yukun Yuan**.      
    accepted by <i>24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc)</i>, 2023.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-mobihoc2023');">bibtex</a>]
-<div id="bibtex-poet" style="display:none">
+<div id="bibtex-mobihoc2023" style="display:none">
 <pre>
 </pre></div> 
 
