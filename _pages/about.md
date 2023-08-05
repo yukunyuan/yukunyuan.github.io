@@ -18,6 +18,7 @@ Email: yukun-yuan AT utc.edu
 
 News
 ======
+- 08-2023: One paper, produced through collaboration with researchers from Lehigh University, accepted by ACM [CIKM 2023](https://uobevents.eventsair.com/cikm2023/).
 - 07-2023: One paper, produced through collaboration with researchers from Florida State University, accepted by ACM [Mobihoc 2023](https://www.sigmobile.org/mobihoc/2023/).
 - 05-2023: **Grant**: A project about urban 311 systems funded by the [CEACSE](https://www.utc.edu/research/ceacse/funding-opportunity-overview) seed grant.
 - 03-2023: One abstract paper accepted by ACM/IEEE [ICCPS 2023](https://iccps.acm.org/2023/).
