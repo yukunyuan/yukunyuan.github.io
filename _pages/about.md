@@ -18,6 +18,7 @@ Email: yukun-yuan AT utc.edu
 
 News
 ======
+- 01-2024: One paper accepted by [ACC 2024](https://acc2024.a2c2.org/).​
 - 10-2023: Our paper won Best Paper Award in CIKM 2023.​
 - 08-2023: One paper, produced through collaboration with researchers from Lehigh University, accepted by ACM [CIKM 2023](https://uobevents.eventsair.com/cikm2023/).
 - 07-2023: One paper, produced through collaboration with researchers from Florida State University, accepted by ACM [Mobihoc 2023](https://www.sigmobile.org/mobihoc/2023/).
