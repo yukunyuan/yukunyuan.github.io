@@ -22,11 +22,11 @@ author_profile: true
    In <i>32nd ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2023.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cikm2023');">bibtex</a>]
 <div id="bibtex-cikm2023" style="display:none">
-<pre>@inproceedings{tan2023joint,
-  title={Joint Rebalancing and Charging for Shared Electric Micromobility Vehicles with Energy-informed Demand},
-  author={Tan, Heng and Yuan, Yukun and Zhong, Shuxin and Yang, Yu},
-  booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
-  pages={2392--2401},
+<pre>@inproceedings{zhou2023waste,
+  title={Waste Not, Want Not: Service Migration-Assisted Federated Intelligence for Multi-Modality Mobile Edge Computing},
+  author={Zhou, Hansong and Wang, Shaoying and Jiang, Chutian and Zhang, Xiaonan and Guo, Linke and Yuan, Yukun},
+  booktitle={Proceedings of the Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing},
+  pages={211--220},
   year={2023}
 }
 </pre></div> 
