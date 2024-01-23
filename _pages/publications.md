@@ -17,20 +17,32 @@ author_profile: true
 <pre>
 </pre></div> 
 
-* [Joint Rebalancing and Charging for Shared Electric Micromobility Vehicles with Energy-defined Demand]()    
+* [Joint Rebalancing and Charging for Shared Electric Micromobility Vehicles with Energy-defined Demand](https://doi.org/10.1145/3583780.3614942)    
    Heng Tan, **Yukun Yuan**, Shuxin Zhong, and Yu Yang.      
    In <i>32nd ACM International Conference on Information and Knowledge Management (CIKM)</i>, 2023.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-cikm2023');">bibtex</a>]
 <div id="bibtex-cikm2023" style="display:none">
-<pre>
+<pre>@inproceedings{tan2023joint,
+  title={Joint Rebalancing and Charging for Shared Electric Micromobility Vehicles with Energy-informed Demand},
+  author={Tan, Heng and Yuan, Yukun and Zhong, Shuxin and Yang, Yu},
+  booktitle={Proceedings of the 32nd ACM International Conference on Information and Knowledge Management},
+  pages={2392--2401},
+  year={2023}
+}
 </pre></div> 
 
-* [Waste Not,Want Not: Service Migration-Assisted Federated Intelligence for Multi-Modality Mobile Edge Computing]()    
+* [Waste Not,Want Not: Service Migration-Assisted Federated Intelligence for Multi-Modality Mobile Edge Computing](https://doi.org/10.1145/3565287.3610277)    
     Hansong Zhou, Shaoyin Wang, Chutian Jiang, Xiaonan Zhang, Linke Guo, and **Yukun Yuan**.      
    In <i>24th International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing (MobiHoc)</i>, 2023.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-mobihoc2023');">bibtex</a>]
 <div id="bibtex-mobihoc2023" style="display:none">
-<pre>
+<pre>@inproceedings{zhou2023waste,
+  title={Waste Not, Want Not: Service Migration-Assisted Federated Intelligence for Multi-Modality Mobile Edge Computing},
+  author={Zhou, Hansong and Wang, Shaoying and Jiang, Chutian and Zhang, Xiaonan and Guo, Linke and Yuan, Yukun},
+  booktitle={Proceedings of the Twenty-fourth International Symposium on Theory, Algorithmic Foundations, and Protocol Design for Mobile Networks and Mobile Computing},
+  pages={211--220},
+  year={2023}
+}
 </pre></div> 
 
 * [Game Theoretic Analysis of Urban E-Taxi Systems: Equilibria and Efficiency]()    
