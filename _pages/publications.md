@@ -45,7 +45,7 @@ author_profile: true
 }
 </pre></div> 
 
-* [Game Theoretic Analysis of Urban E-Taxi Systems: Equilibria and Efficiency](10.1109/SECON55815.2022.9918566)    
+* [Game Theoretic Analysis of Urban E-Taxi Systems: Equilibria and Efficiency](https://ieeexplore.ieee.org/document/9918566)    
     **Yukun Yuan**, Yue Zhao, Lin Chen, and Shan Lin.      
    In <i>IEEE International Conference on Sensing, Communication, and Networking (IEEE SECON)</i>, 2022.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-secon');">bibtex</a>]
