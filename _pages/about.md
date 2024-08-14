@@ -18,6 +18,7 @@ Email: yukun-yuan AT utc.edu
 
 News
 ======
+- 08-2024: **Grant**: Project funded by NSF CISE-MSI (CPS).
 - 06-2024: One paper accepted by [MASS 2024](https://sites.google.com/view/ieee-mass-2024/home).
 - 04-2024: One paper accepted by [IWQoS 2024](https://iwqos2024.ieee-iwqos.org/).
 - 01-2024: One paper, produced through collaboration with researchers from Lehigh University, accepted by [ICRA 2024](https://2024.ieee-icra.org/).
