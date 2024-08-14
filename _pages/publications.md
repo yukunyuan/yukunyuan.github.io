@@ -9,6 +9,24 @@ author_profile: true
 
 
 ## Conference Papers
+* [Human Preference-aware Rebalancing and Charging for Shared Electric Micromobility Vehicles]()    
+   Heng Tan, **Yukun Yuan**, Hua Yan, Shuxin Zhong, and Yu Yang      
+   In <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2024.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-icra2024');">bibtex</a>]
+<div id="bibtex-icra2024" style="display:none">
+<pre>
+  @INPROCEEDINGS{10610713,
+  author={Tan, Heng and Yuan, Yukun and Yan, Hua and Zhong, Shuxin and Yang, Yu},
+  booktitle={2024 IEEE International Conference on Robotics and Automation (ICRA)}, 
+  title={Human Preference-aware Rebalancing and Charging for Shared Electric Micromobility Vehicles}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={9608-9615},
+  keywords={Uncertainty;Fuses;Urban areas;Transportation;Reinforcement learning;Performance gain;Energy states;Intelligent Transportation Systems;Human Factors and Human-in-the-Loop;Reinforcement Learning},
+  doi={10.1109/ICRA57147.2024.10610713}}
+</pre></div> 
+
 * [Fairness-aware Electric Taxi Fleet Coordination under Short-term Power System Failures]()    
    **Yukun Yuan**, Zihan Ding, and Shan Lin.      
    accepted by <i>American Control Conference (ACC)</i>, 2024.                           
