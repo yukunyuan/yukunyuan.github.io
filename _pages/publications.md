@@ -10,6 +10,24 @@ author_profile: true
 
 ## Conference Papers
 
+* [Enabling Ensemble Reinforcement Learning with ICN in Mobile Edge Computing Environments](https://ieeexplore.ieee.org/abstract/document/10723416)    
+   Yaodong Huang, Biying Kong, Wenliang Feng, Changkang Mo, Han Liu, **Yukun Yuan**, Laizhong Cui      
+   In <i>IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems (MASS)</i>, 2024.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-mass2024');">bibtex</a>]
+<div id="bibtex-mass2024" style="display:none">
+<pre>
+ @INPROCEEDINGS{10723416,
+  author={Huang, Yaodong and Kong, Biying and Feng, Wenliang and Mo, Changkang and Liu, Han and Yuan, Yukun and Cui, Laizhong},
+  booktitle={2024 IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems (MASS)}, 
+  title={Enabling Ensemble Reinforcement Learning with ICN in Mobile Edge Computing Environments}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={428-436},
+  keywords={Training;Performance evaluation;Multi-access edge computing;Accuracy;Protocols;Information sharing;Reinforcement learning;Smart systems;Real-time systems;Smart devices;Information-centric Networking;Mobile Edge Computing;Ensemble Reinforcement Learning},
+  doi={10.1109/MASS62177.2024.00063}}
+
+</pre></div> 
 
 * [QUIC meets ICN: A Versatile Wireless Transport Strategy in Multi-access Edge Environments](https://ieeexplore.ieee.org/abstract/document/10682860)    
    Yaodong Huang, Changkang Mo, Tianhang Liu, Biying Kong, Lei Zhang, **Yukun Yuan**, Laizhong Cui      
