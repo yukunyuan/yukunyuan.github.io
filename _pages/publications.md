@@ -237,6 +237,24 @@ doi={10.1109/ICDCS.2019.00074}}
 
 ## Journal Papers
 
+* [Efficient Service Function Chain Placement over Heterogeneous Devices in Deviceless Edge Computing Environments](https://ieeexplore.ieee.org/abstract/document/10707311)
+    Yaodong Huang, Tingting Yao, Zelin Lin, Xiaojun Shang, **Yukun Yuan**, Laizhong Cui, Yuanyuan Yang.     
+    In <i>IEEE Transactions on Computers.</i> (in preprint).                           
+ [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-huangtc');">bibtex</a>]
+<div id="bibtex-huangtc" style="display:none">
+<pre>@ARTICLE{10707311,
+  author={Huang, Yaodong and Yao, Tingting and Lin, Zelin and Shang, Xiaojun and Yuan, Yukun and Cui, Laizhong and Yang, Yuanyuan},
+  journal={IEEE Transactions on Computers}, 
+  title={Efficient Service Function Chain Placement over Heterogeneous Devices in Deviceless Edge Computing Environments}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-14},
+  keywords={Edge computing;Service function chaining;Virtualization;Servers;Hardware;Delays;Resource management;Computers;Computational modeling;Optimization;Service function chain;Deviceless edge computing;Heterogeneous edge devices},
+  doi={10.1109/TC.2024.3475590}}
+
+</pre></div>  
+
 
 * [DeResolver: A Decentralized Conflict Resolution Framework with Autonomous Negotiation for Smart City Services](https://dl.acm.org/doi/abs/10.1145/3529096)
     **Yukun Yuan**, Meiyi Ma, Songyang Han, Desheng Zhang, Fei Miao, John Stankovic, and Shan Lin.     
