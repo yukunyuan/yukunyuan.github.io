@@ -9,6 +9,28 @@ author_profile: true
 
 
 ## Conference Papers
+
+
+* [QUIC meets ICN: A Versatile Wireless Transport Strategy in Multi-access Edge Environments](https://ieeexplore.ieee.org/abstract/document/10682860)    
+   Yaodong Huang, Changkang Mo, Tianhang Liu, Biying Kong, Lei Zhang, **Yukun Yuan**, Laizhong Cui      
+   In <i>IEEE/ACM 32nd International Symposium on Quality of Service (IWQoS)</i>, 2024.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-iwqos2024');">bibtex</a>]
+<div id="bibtex-iwqos2024" style="display:none">
+<pre>
+  @INPROCEEDINGS{10682860,
+  author={Huang, Yaodong and Mo, Changkang and Liu, Tianhang and Kong, Biying and Zhang, Lei and Yuan, Yukun and Cui, Laizhong},
+  booktitle={2024 IEEE/ACM 32nd International Symposium on Quality of Service (IWQoS)}, 
+  title={QUIC meets ICN: A Versatile Wireless Transport Strategy in Multi-access Edge Environments}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={1-6},
+  keywords={Wireless communication;Protocols;Unicast;Scalability;Quality of service;Data communication;Communication system security},
+  doi={10.1109/IWQoS61813.2024.10682860}}
+</pre></div> 
+
+
+
 * [Human Preference-aware Rebalancing and Charging for Shared Electric Micromobility Vehicles](https://ieeexplore.ieee.org/abstract/document/10610713)    
    Heng Tan, **Yukun Yuan**, Hua Yan, Shuxin Zhong, and Yu Yang      
    In <i>IEEE International Conference on Robotics and Automation (ICRA)</i>, 2024.                           
