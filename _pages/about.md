@@ -18,6 +18,7 @@ Email: yukun-yuan AT utc.edu
 
 News
 ======
+- 12-2024: One paper accepted by [INFOCOM 2025](https://infocom2025.ieee-infocom.org/).
 - 09-2024: One paper accepted by IEEE Transactions on Computers.
 - 08-2024: **Grant**: Project funded by NSF CISE-MSI (CPS).
 - 06-2024: One paper accepted by [MASS 2024](https://sites.google.com/view/ieee-mass-2024/home).
