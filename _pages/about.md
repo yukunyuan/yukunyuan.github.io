@@ -18,6 +18,7 @@ Email: yukun-yuan AT utc.edu
 
 News
 ======
+- 02-2025: One paper accepted by [ICCPS 2025](https://iccps.acm.org/2025/).
 - 01-2025: One paper accepted by [ACC 2025](https://acc2025.a2c2.org/).
 - 12-2024: One paper accepted by [INFOCOM 2025](https://infocom2025.ieee-infocom.org/).
 - 09-2024: One paper accepted by IEEE Transactions on Computers.
