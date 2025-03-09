@@ -15,7 +15,25 @@ author_profile: true
    In <i>ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)</i>, 2025.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-iccps2025');">bibtex</a>]
 <div id="bibtex-iccps2025" style="display:none">
-<pre>}
+<pre>
+
+</pre></div> 
+
+* [Energy-aware E-taxi Fleet Coordination under Power Rationing via Dynamic Charging Rate]()    
+   **Yukun Yuan**, Zilong Zeng*, Xiaonan Zhang, and Shan Lin.     
+   In <i>2025 American Control Conference (ACC)</i>, 2025.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-acc2025');">bibtex</a>]
+<div id="bibtex-acc2025" style="display:none">
+<pre>
+
+</pre></div> 
+
+* [Similarity-Guided Rapid Deployment of Federated Intelligence over Heterogeneous Edge Computing]()    
+   Hansong Zhou, Jingjing Fu, **Yukun Yuan**, Linke Guo, and Xiaonan Zhang.     
+   In <i>IEEE International Conference on Computer Communications (INFOCOM)</i>, 2025.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-infocom2025');">bibtex</a>]
+<div id="bibtex-infocom2025" style="display:none">
+<pre>
 
 </pre></div> 
 
