@@ -94,12 +94,23 @@ author_profile: true
   doi={10.1109/ICRA57147.2024.10610713}}
 </pre></div> 
 
-* [Fairness-aware Electric Taxi Fleet Coordination under Short-term Power System Failures]()    
+* [Fairness-aware Electric Taxi Fleet Coordination under Short-term Power System Failures](https://ieeexplore.ieee.org/document/10645001)    
    **Yukun Yuan**, Zihan Ding, and Shan Lin.      
    accepted by <i>American Control Conference (ACC)</i>, 2024.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-acc2024');">bibtex</a>]
 <div id="bibtex-acc2024" style="display:none">
 <pre>
+   @INPROCEEDINGS{10645001,
+  author={Yuan, Yukun and Ding, Zihan and Lin, Shan},
+  booktitle={2024 American Control Conference (ACC)}, 
+  title={Fairness-Aware Electric Taxi Fleet Coordination Under Short-Term Power System Failures}, 
+  year={2024},
+  volume={},
+  number={},
+  pages={214-219},
+  keywords={Power measurement;System performance;Heuristic algorithms;Urban areas;Power system dynamics;Ecosystems;Control systems},
+  doi={10.23919/ACC60939.2024.10645001}}
+
 </pre></div> 
 
 * [Joint Rebalancing and Charging for Shared Electric Micromobility Vehicles with Energy-defined Demand](https://doi.org/10.1145/3583780.3614942)    
