@@ -10,6 +10,15 @@ author_profile: true
 
 ## Conference Papers
 
+* [eFlx: Provisioning of Energy Flexibility for E-taxi Fleet]()    
+   Liangkai Zhou, Yue Zhao, **Yukun Yuan**, Ce Xu, and Shan Lin.      
+   In <i>ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)</i>, 2025.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-iccps2025');">bibtex</a>]
+<div id="bibtex-iccps2025" style="display:none">
+<pre>}
+
+</pre></div> 
+
 * [Enabling Ensemble Reinforcement Learning with ICN in Mobile Edge Computing Environments](https://ieeexplore.ieee.org/abstract/document/10723416)    
    Yaodong Huang, Biying Kong, Wenliang Feng, Changkang Mo, Han Liu, **Yukun Yuan**, Laizhong Cui      
    In <i>IEEE 21st International Conference on Mobile Ad-Hoc and Smart Systems (MASS)</i>, 2024.                           
