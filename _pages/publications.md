@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 {% include base_path %}
-
+Authors with * are the students under my supervision.
 
 ## Conference Papers
 
@@ -20,7 +20,7 @@ author_profile: true
 </pre></div> 
 
 * [Energy-aware E-taxi Fleet Coordination under Power Rationing via Dynamic Charging Rate]()    
-   **Yukun Yuan**, <u>Zilong Zeng</u>, Xiaonan Zhang, and Shan Lin.     
+   **Yukun Yuan**, Zilong Zeng*, Xiaonan Zhang, and Shan Lin.     
    In <i>2025 American Control Conference (ACC)</i>, 2025.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-acc2025');">bibtex</a>]
 <div id="bibtex-acc2025" style="display:none">
@@ -95,7 +95,7 @@ author_profile: true
 </pre></div> 
 
 * [Fairness-aware Electric Taxi Fleet Coordination under Short-term Power System Failures](https://ieeexplore.ieee.org/document/10645001)    
-   **Yukun Yuan**, <u>Zihan Ding</u>, and Shan Lin.      
+   **Yukun Yuan**, Zihan Ding*, and Shan Lin.      
    accepted by <i>American Control Conference (ACC)</i>, 2024.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-acc2024');">bibtex</a>]
 <div id="bibtex-acc2024" style="display:none">
