@@ -96,7 +96,7 @@ author_profile: true
 
 * [Fairness-aware Electric Taxi Fleet Coordination under Short-term Power System Failures](https://ieeexplore.ieee.org/document/10645001)    
    **Yukun Yuan**, <u>Zihan Ding</u>, and Shan Lin.      
-   accepted by <i>American Control Conference (ACC)</i>, 2024.                           
+   In <i>American Control Conference (ACC)</i>, 2024.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-acc2024');">bibtex</a>]
 <div id="bibtex-acc2024" style="display:none">
 <pre>
@@ -296,7 +296,7 @@ doi={10.1109/ICDCS.2019.00074}}
 
 * [DeResolver: A Decentralized Conflict Resolution Framework with Autonomous Negotiation for Smart City Services](https://dl.acm.org/doi/abs/10.1145/3529096)
     **Yukun Yuan**, Meiyi Ma, Songyang Han, Desheng Zhang, Fei Miao, John Stankovic, and Shan Lin.     
-    In <i>ACM Transactions on Cyber-Physical Systems.</i> (in preprint).                           
+    In <i>ACM Transactions on Cyber-Physical Systems.</i>                          
  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-deresolvertcps');">bibtex</a>]
 <div id="bibtex-deresolvertcps" style="display:none">
 <pre>@article{deresolvertcps,
@@ -331,7 +331,10 @@ doi={10.1109/TMC.2021.3091324}}
 
 ## Poster & Abstract
 
-
+* [Non-Intrusive Speaker Diarization via mmWave Sensing](https://dl.acm.org/doi/10.1145/3715014.3724074).<br>
+Shaoying Wang, Hansong Zhou, **Yukun Yuan**, Xiaonan Zhang.   
+    In <i>Proceedings of the 23rd ACM Conference on Embedded Networked Sensor Systems, 2025.</i>
+  
 * [Joint Rebalancing and Charging for Shared Electric Micromobility Vehicles with Human-system Interaction](https://dl.acm.org/doi/abs/10.1145/3529096).<br>
  Heng Tan, **Yukun Yuan**, Shuxin Zhong, and Yu Yang.     
     In <i>ACM/IEEE Internation Conference on Cyber-Physical Systems Work-in-Progress, 2023.</i>                           
