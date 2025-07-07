@@ -275,8 +275,7 @@ doi={10.1109/ICDCS.2019.00074}}
 
 ## Journal Papers
 
-* [Stochastic Model Predictive Control-based Electric Taxi Fleet Coordination under Solar Power Uncertainty](https://dl.acm.org/doi/abs/10.1145/3744748)
-  
+* [Stochastic Model Predictive Control-based Electric Taxi Fleet Coordination under Solar Power Uncertainty](https://dl.acm.org/doi/abs/10.1145/3744748)\
     **Yukun Yuan**, Mian Jia, Yue Zhao, and Shan Lin.     
     In <i>ACM Transactions on Cyber-Physical Systems.</i>                          
  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-smpctcps');">bibtex</a>]
