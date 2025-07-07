@@ -10,7 +10,7 @@ author_profile: true
 
 ## Conference Papers
 
-* [eFlx: Provisioning of Energy Flexibility for E-taxi Fleet]()    
+* [eFlx: Provisioning of Energy Flexibility for E-taxi Fleet](https://dl.acm.org/doi/abs/10.1145/3716550.3722026)    
    Liangkai Zhou, Yue Zhao, **Yukun Yuan**, Ce Xu, and Shan Lin.      
    In <i>ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)</i>, 2025.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-iccps2025');">bibtex</a>]
@@ -28,7 +28,7 @@ author_profile: true
 
 </pre></div> 
 
-* [Similarity-Guided Rapid Deployment of Federated Intelligence over Heterogeneous Edge Computing]()    
+* [Similarity-Guided Rapid Deployment of Federated Intelligence over Heterogeneous Edge Computing](https://ieeexplore.ieee.org/abstract/document/11044586)    
    Hansong Zhou, Jingjing Fu, **Yukun Yuan**, Linke Guo, and Xiaonan Zhang.     
    In <i>IEEE International Conference on Computer Communications (INFOCOM)</i>, 2025.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-infocom2025');">bibtex</a>]
@@ -297,7 +297,7 @@ keywords = {Transportation Networks, Electric Power Networks, Co-optimization, R
 }
 </pre></div>  
 
-* [Efficient Service Function Chain Placement over Heterogeneous Devices in Deviceless Edge Computing Environments](https://ieeexplore.ieee.org/abstract/document/10707311)
+* [Efficient Service Function Chain Placement over Heterogeneous Devices in Deviceless Edge Computing Environments](https://ieeexplore.ieee.org/abstract/document/10707311)\
     Yaodong Huang, Tingting Yao, Zelin Lin, Xiaojun Shang, **Yukun Yuan**, Laizhong Cui, Yuanyuan Yang.     
     In <i>IEEE Transactions on Computers.</i>                           
  [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-huangtc');">bibtex</a>]
