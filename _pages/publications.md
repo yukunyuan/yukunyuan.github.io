@@ -275,6 +275,28 @@ doi={10.1109/ICDCS.2019.00074}}
 
 ## Journal Papers
 
+* [Stochastic Model Predictive Control-based Electric Taxi Fleet Coordination under Solar Power Uncertainty](https://dl.acm.org/doi/abs/10.1145/3744748)
+    **Yukun Yuan**, Mian Jia, Yue Zhao, and Shan Lin.     
+    In <i>ACM Transactions on Cyber-Physical Systems.</i>                          
+ [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-smpctcps');">bibtex</a>]
+<div id="bibtex-smpctcps" style="display:none">
+<pre>@article{10.1145/3744748,
+author = {Yuan, Yukun and Jia, Mian and Zhao, Yue and Lin, Shan},
+title = {Stochastic Model Predictive Control-based Electric Taxi Fleet Coordination under Solar Power Uncertainty},
+year = {2025},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+issn = {2378-962X},
+url = {https://doi.org/10.1145/3744748},
+doi = {10.1145/3744748},
+abstract = {As electric vehicles (EV) gradually replace fuel vehicles and provide transportation services in cities, e.g., electric taxi fleets, solar-powered charging stations with energy storage systems have been deployed to provide charging services for EV fleets. The mixture of solar-powered and traditional charging stations brings efficiency challenges to charging stations and reliability challenges to power systems. In this paper, we explore e-taxis’ mobility and charging demand flexibility to co-optimize service quality of e-taxi fleets and system cost of charging infrastructures, e.g., solar power under-utilization and reliability issues of power distribution networks due to reverse power flow. We propose SAC, an e-taxi coordination framework to dispatch e-taxis for charging or serving passengers under spatial-temporal dynamics of renewable energy and passenger mobility, which integrates the renewable power generation estimation from a forecast system. Moreover, we extend our design to a stochastic Model Predictive Control problem to handle the uncertainty of solar power generation, aiming to fully utilize generated solar power. Our data-driven evaluation shows that SAC significantly outperforms existing solutions, enhancing the usage rate of solar power by up to 172.6\%, while maintaining e-taxi service quality with very small overhead, i.e., reducing the supply-demand ratio by 2.2\%.},
+note = {Just Accepted},
+journal = {ACM Trans. Cyber-Phys. Syst.},
+month = jun,
+keywords = {Transportation Networks, Electric Power Networks, Co-optimization, Renewable Solar Power}
+}
+</pre></div>  
+
 * [Efficient Service Function Chain Placement over Heterogeneous Devices in Deviceless Edge Computing Environments](https://ieeexplore.ieee.org/abstract/document/10707311)
     Yaodong Huang, Tingting Yao, Zelin Lin, Xiaojun Shang, **Yukun Yuan**, Laizhong Cui, Yuanyuan Yang.     
     In <i>IEEE Transactions on Computers.</i> (in preprint).                           
