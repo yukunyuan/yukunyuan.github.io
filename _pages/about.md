@@ -18,6 +18,7 @@ Email: yukun-yuan AT utc.edu
 
 News
 ======
+- 08-2025: Two papers accepted by ACM [SIGSPATIAL 2025](https://sigspatial2025.sigspatial.org/).
 - 06-2025: One paper accepted by ACM [TCPS](https://dl.acm.org/journal/tcps).
 - 03-2025: One poster paper accepted by [Sensys 2025](https://sensys.acm.org/2025/).
 - 02-2025: One paper accepted by [ICCPS 2025](https://iccps.acm.org/2025/).
