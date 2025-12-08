@@ -16,16 +16,7 @@ author_profile: true
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-infocom2026');">bibtex</a>]
 <div id="bibtex-infocom2026" style="display:none">
 <pre>
-@INPROCEEDINGS{11044586,
-  author={Zhou, Hansong and Fu, Jingjing and Yuan, Yukun and Guo, Linke and Zhang, Xiaonan},
-  booktitle={IEEE INFOCOM 2025 - IEEE Conference on Computer Communications}, 
-  title={Similarity-Guided Rapid Deployment of Federated Intelligence Over Heterogeneous Edge Computing}, 
-  year={2025},
-  volume={},
-  number={},
-  pages={1-10},
-  keywords={Training;Adaptation models;Accuracy;Computational modeling;Benchmark testing;Stability analysis;Timing;Artificial intelligence;Edge computing;Convergence;Semi-Asynchronous Federated learning;Model Staleness;Similarity-Aware Aggregation},
-  doi={10.1109/INFOCOM55648.2025.11044586}}
+
 
 </pre></div> 
 
