@@ -29,7 +29,7 @@ author_profile: true
 
 </pre></div> 
 
-* [REALISM: A Regulatory Framework for Coordinated Scheduling in Multi-Operator Shared Micromobility Services]()    
+* [REALISM: A Regulatory Framework for Coordinated Scheduling in Multi-Operator Shared Micromobility Services](https://arxiv.org/abs/2508.10166)    
   Heng Tan, Hua Yan, **Yukun Yuan**, Guang Wang, and Yu Yang.     
    In <i>In 33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL)</i>, 2025.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-sigspatial2025_heng');">bibtex</a>]
@@ -38,7 +38,7 @@ author_profile: true
 
 </pre></div> 
 
-* [MuST$^2$-Learn: Multi-view Spatial-Temporal-Type Learning for Heterogeneous Municipal Service Time Estimation]()    
+* [MuST$^2$-Learn: Multi-view Spatial-Temporal-Type Learning for Heterogeneous Municipal Service Time Estimation](https://www.arxiv.org/abs/2508.16503)    
    <u>Nadia Asif</u>, Zhiqing Hong, Shaogang Ren, Xiaonan Zhang, Xiaojun Shang, and **Yukun Yuan**.      
    In <i>In 33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL)</i>, 2025.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-sigspatial2025_nadia');">bibtex</a>]
