@@ -10,13 +10,38 @@ author_profile: true
 
 ## Conference Papers
 
+* [MuST$^2$-Learn: Multi-view Spatial-Temporal-Type Learning for Heterogeneous Municipal Service Time Estimation]()    
+   <u>Nadia Asif<\u>, Zhiqing Hong, Shaogang Ren, Xiaonan Zhang, Xiaojun Shang, and **Yukun Yuan**.      
+   In <i>In 33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL)</i>, 2025.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-sigspatial2025_nadia');">bibtex</a>]
+<div id="bibtex-sigspatial2025_nadia" style="display:none">
+<pre>
+
+</pre></div> 
+
 * [eFlx: Provisioning of Energy Flexibility for E-taxi Fleet](https://dl.acm.org/doi/abs/10.1145/3716550.3722026)    
    Liangkai Zhou, Yue Zhao, **Yukun Yuan**, Ce Xu, and Shan Lin.      
    In <i>ACM/IEEE International Conference on Cyber-Physical Systems (ICCPS)</i>, 2025.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-iccps2025');">bibtex</a>]
 <div id="bibtex-iccps2025" style="display:none">
 <pre>
-
+@inproceedings{10.1145/3716550.3722026,
+author = {Zhou, Liangkai and Zhao, Yue and Yuan, Yukun and Xu, Ce and Lin, Shan},
+title = {eFlx: Energy Flexibility Provisioning for E-taxi Fleets},
+year = {2025},
+isbn = {9798400714986},
+publisher = {Association for Computing Machinery},
+address = {New York, NY, USA},
+url = {https://doi.org/10.1145/3716550.3722026},
+doi = {10.1145/3716550.3722026},
+abstract = {An e-taxi fleet consumes a significant amount of energy daily, making it a substantial electricity consumer. Unlike traditional consumers, such as factories and buildings, a fleet coordinates charging activities across both times and locations, offering considerable flexibility in its energy demand. This allows a fleet to achieve substantial reductions in energy consumption in response to demand response requests while maintaining transportation service quality. To better understand and control this intrinsic energy flexibility, we propose the eFlx framework for managing e-taxi fleets for demand response. In the eFlx framework, we establish a model to characterize the energy flexibility upon receiving a real-time demand response request. We then investigate the energy flexibility provisioning problem, formulated as a bi-level optimal control problem, which aims to optimize and maintain the energy flexibility of the fleet for potential demand response requests that could arise at any time. To achieve real-time flexibility provisioning, we develop an efficient iterative algorithm to solve this problem. Data-driven evaluations with NYC datasets demonstrate that eFlx achieves a 19. 98\% greater reduction in energy demand compared to existing solutions, without requiring extra charging or compromising the quality of taxi service.},
+booktitle = {Proceedings of the ACM/IEEE 16th International Conference on Cyber-Physical Systems (with CPS-IoT Week 2025)},
+articleno = {19},
+numpages = {12},
+keywords = {Energy flexibility, demand response, e-taxi fleet, grid services, real-time provisioning},
+location = {Irvine, CA, USA},
+series = {ICCPS '25}
+}
 </pre></div> 
 
 * [Energy-aware E-taxi Fleet Coordination under Power Rationing via Dynamic Charging Rate]()    
