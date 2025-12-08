@@ -10,8 +10,36 @@ author_profile: true
 
 ## Conference Papers
 
+* [Who Speaks What from Afar: Eavesdropping In-Person Conversations via mmWave Sensing]()    
+  Shaoying Wang, Hansong Zhou, **Yukun Yuan**, and Xiaonan Zhang.     
+   In <i>IEEE International Conference on Computer Communications (INFOCOM)</i>, 2026.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-infocom2026');">bibtex</a>]
+<div id="bibtex-infocom2026" style="display:none">
+<pre>
+@INPROCEEDINGS{11044586,
+  author={Zhou, Hansong and Fu, Jingjing and Yuan, Yukun and Guo, Linke and Zhang, Xiaonan},
+  booktitle={IEEE INFOCOM 2025 - IEEE Conference on Computer Communications}, 
+  title={Similarity-Guided Rapid Deployment of Federated Intelligence Over Heterogeneous Edge Computing}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Training;Adaptation models;Accuracy;Computational modeling;Benchmark testing;Stability analysis;Timing;Artificial intelligence;Edge computing;Convergence;Semi-Asynchronous Federated learning;Model Staleness;Similarity-Aware Aggregation},
+  doi={10.1109/INFOCOM55648.2025.11044586}}
+
+</pre></div> 
+
+* [REALISM: A Regulatory Framework for Coordinated Scheduling in Multi-Operator Shared Micromobility Services]()    
+  Heng Tan, Hua Yan, **Yukun Yuan**, Guang Wang, and Yu Yang.     
+   In <i>In 33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL)</i>, 2025.                           
+    [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-sigspatial2025_heng');">bibtex</a>]
+<div id="bibtex-sigspatial2025_heng" style="display:none">
+<pre>
+
+</pre></div> 
+
 * [MuST$^2$-Learn: Multi-view Spatial-Temporal-Type Learning for Heterogeneous Municipal Service Time Estimation]()    
-   <u>Nadia Asif<\u>, Zhiqing Hong, Shaogang Ren, Xiaonan Zhang, Xiaojun Shang, and **Yukun Yuan**.      
+   <u>Nadia Asif</u>, Zhiqing Hong, Shaogang Ren, Xiaonan Zhang, Xiaojun Shang, and **Yukun Yuan**.      
    In <i>In 33rd ACM SIGSPATIAL International Conference on Advances in Geographic Information Systems (SIGSPATIAL)</i>, 2025.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-sigspatial2025_nadia');">bibtex</a>]
 <div id="bibtex-sigspatial2025_nadia" style="display:none">
