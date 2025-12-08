@@ -44,13 +44,20 @@ series = {ICCPS '25}
 }
 </pre></div> 
 
-* [Energy-aware E-taxi Fleet Coordination under Power Rationing via Dynamic Charging Rate]()    
+* [Energy-aware E-taxi Fleet Coordination under Power Rationing via Dynamic Charging Rate](https://ieeexplore.ieee.org/abstract/document/11107593)    
    **Yukun Yuan**, <u>Zilong Zeng</u>, Xiaonan Zhang, and Shan Lin.     
    In <i>2025 American Control Conference (ACC)</i>, 2025.                           
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-acc2025');">bibtex</a>]
 <div id="bibtex-acc2025" style="display:none">
 <pre>
-
+@inproceedings{yuan2025energy,
+  title={Energy-aware E-taxi Fleet Coordination under Power Rationing via Dynamic Charging Rate},
+  author={Yuan, Yukun and Zeng, Zilong and Zhang, Xiaonan and Lin, Shan},
+  booktitle={2025 American Control Conference (ACC)},
+  pages={2230--2236},
+  year={2025},
+  organization={IEEE}
+}
 </pre></div> 
 
 * [Similarity-Guided Rapid Deployment of Federated Intelligence over Heterogeneous Edge Computing](https://ieeexplore.ieee.org/abstract/document/11044586)    
@@ -59,6 +66,16 @@ series = {ICCPS '25}
     [<a href="javascript:void(0)" onclick="(function(target, id) { if ($('#' + id).css('display') == 'block') { $('#' + id).hide('fast'); $(target).text('bibtex') } else { $('#' + id).show('fast'); $(target).text('bibtex▲') } })(this, 'bibtex-infocom2025');">bibtex</a>]
 <div id="bibtex-infocom2025" style="display:none">
 <pre>
+@INPROCEEDINGS{11044586,
+  author={Zhou, Hansong and Fu, Jingjing and Yuan, Yukun and Guo, Linke and Zhang, Xiaonan},
+  booktitle={IEEE INFOCOM 2025 - IEEE Conference on Computer Communications}, 
+  title={Similarity-Guided Rapid Deployment of Federated Intelligence Over Heterogeneous Edge Computing}, 
+  year={2025},
+  volume={},
+  number={},
+  pages={1-10},
+  keywords={Training;Adaptation models;Accuracy;Computational modeling;Benchmark testing;Stability analysis;Timing;Artificial intelligence;Edge computing;Convergence;Semi-Asynchronous Federated learning;Model Staleness;Similarity-Aware Aggregation},
+  doi={10.1109/INFOCOM55648.2025.11044586}}
 
 </pre></div> 
 
