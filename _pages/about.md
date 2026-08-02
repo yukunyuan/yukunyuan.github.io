@@ -18,7 +18,7 @@ Email: yukun-yuan AT utc.edu
 
 News
 ======
-- 08-2026: Grant: Project funded by NSF HBCU EiR.
+- 08-2026: **Grant**: Project funded by NSF HBCU EiR.
 - 12-2025: One paper accepted by [INFOCOM 2026](https://infocom2026.ieee-infocom.org/).
 - 08-2025: Two papers accepted by ACM [SIGSPATIAL 2025](https://sigspatial2025.sigspatial.org/).
 - 06-2025: One paper accepted by ACM [TCPS](https://dl.acm.org/journal/tcps).
