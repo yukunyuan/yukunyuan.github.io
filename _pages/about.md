@@ -27,7 +27,7 @@ News
 - 01-2025: One paper accepted by [ACC 2025](https://acc2025.a2c2.org/).
 - 12-2024: One paper accepted by [INFOCOM 2025](https://infocom2025.ieee-infocom.org/).
 - 09-2024: One paper accepted by IEEE Transactions on Computers.
-- 08-2024: **Grant**: Project funded by NSF CISE-MSI (CPS).
+- 08-2024: **Grant**: Project funded by NSF CISE-MSI (CPS) [Link](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2431552).
 - 06-2024: One paper accepted by [MASS 2024](https://sites.google.com/view/ieee-mass-2024/home).
 - 04-2024: One paper accepted by [IWQoS 2024](https://iwqos2024.ieee-iwqos.org/).
 - 01-2024: One paper, produced through collaboration with researchers from Lehigh University, accepted by [ICRA 2024](https://2024.ieee-icra.org/).
