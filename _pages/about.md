@@ -16,7 +16,7 @@ redirect_from:
 
 <div class="opening-note">
   <strong>Student openings</strong>
-  <p>I welcome inquiries from motivated ~~Ph.D.,~~ master's, and undergraduate students interested in smart cities, cyber-physical systems, machine learning, and control. Please email <a href="mailto:yukun-yuan@utc.edu">yukun-yuan@utc.edu</a> with your CV and a short description of your research interests.</p>
+  <p>I welcome inquiries from motivated <del>Ph.D.,<\del> master's, and undergraduate students interested in smart cities, cyber-physical systems, machine learning, and control. Please email <a href="mailto:yukun-yuan@utc.edu">yukun-yuan@utc.edu</a> with your CV and a short description of your research interests.</p>
 </div>
 
 
