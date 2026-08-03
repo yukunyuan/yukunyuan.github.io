@@ -5,42 +5,31 @@ permalink: /research/
 author_profile: true
 ---
 
-{% include base_path %}
+My group studies learning and control methods for systems in which people, physical infrastructure, and data interact. Our work connects mathematical models with data-driven evaluation and real-world implementation.
 
+<div class="project-card">
+  <h2>Human-Aligned Cyber-Physical Systems</h2>
+  <p>We develop sensing and control methods for service-oriented systems that rely on incomplete and selective human-generated data. Current work studies latent service-demand estimation, service-requirement learning, constrained resource allocation, control-faithful explanations, and long-term human-system feedback.</p>
+  <div class="project-tags">Human-generated sensing · Bayesian inference · Constrained reinforcement learning · Closed-loop analysis</div>
+</div>
 
-## Decentralized Conflicts Resolution
+<div class="project-card">
+  <img src="/images/p2charging.png" alt="Electric taxi charging and dispatch coordination framework" />
+  <h2>Electric Mobility and Energy Coordination</h2>
+  <p>We design control and optimization methods for electric taxi fleets, shared micromobility, charging infrastructure, demand response, renewable energy, and short-term power disruptions. The goal is to reduce energy cost and support the power system while maintaining transportation service quality.</p>
+  <div class="project-tags">Optimal control · Electric mobility · Energy flexibility · Demand response</div>
+</div>
 
-<img src="/images/deresolver figure.png" title="Example of conflicts" style="float:left;width:300pt;padding-right:10px;" />
+<div class="project-card">
+  <img src="/images/deresolver figure.png" alt="Decentralized service coordination framework" />
+  <h2>Urban Computing and Municipal Services</h2>
+  <p>We study municipal service demand, service-time estimation, resource scheduling, and conflicts among city services. Our methods combine spatial-temporal learning, causal analysis, optimization, and multi-agent coordination to support more reliable urban services.</p>
+  <div class="project-tags">Urban computing · Municipal 311 · Spatial-temporal learning · Resource allocation</div>
+</div>
 
-We study the problem of addressing the conflicts across services in urban cities. We design a decentralized negotiation and conflict resolution framework named DeResolver, which allows services to resolve conflicts by communicating and negotiating with each other to reach a Pareto-optimal agreement autonomously and efficiently. Our design features a two-level semi-supervised learning-based algorithm to predict acceptable proposals and their rankings of each opponent through the negotiation. [ICCPS 2021, TCPS] <br /><br /><br /><br />
-
-----
-## Electric Taxi Charging Coordination​
-
-<img src="/images/p2charging.png" title="p2charging" style="float:left;width:300pt;padding-right:10px;" />
-
-Our analysis reveals that most e-taxi drivers charge their vehicles only when their batteries are low, and more than half of taxi drivers charge their batteries to full on each charge. To satisfy dynamic passenger demand, we propose a new charging strategy: proactive partial charging. We design the p2Charging framework that employs a receding horizon optimization approach to coordinate the charging process and the dispatch process tightly and simultaneously with real-time multi-source data. [ICDCS 2019] <br /><br /><br />
-
-----
-<img src="/images/sac.png" title="sac" style="float:left;width:300pt;padding-left:10px;" />
-
-
-We aim to coordinate  an  e-taxi  fleet  for  optimizing  charging  cost with both  conventional  and  renewable  energy  while maintaining the taxi service quality. We  propose  SAC,  an  e-taxi  fleet  coordination  framework to  dispatch  e-taxis  for  either  charging  or  serving passengers  under spatio-temporal  dynamics  of  renewable  energy  and passenger mobility. [CDC 2021, ACC 2022]<br /><br /><br />
-
-
-----
-## Dynamic Integration of Heterogeneous Transportation Modes under Disruptions
-
-<img src="/images/eroute.png" title="Heterogeneous Transportation System Coordination Framework" style="float:left;width:300pt;padding-right:10px;" />
-
-
-With passenger trip data collected from a subway system, we analyze the degradation of service quality when the disruption happens to a subway line. We design a service framework called eRoute, which dynamically selects and coordinates heterogeneous mobile systems according to the characteristics of the disruptive events and mobile systems. We design a hierarchical Receding Horizon Control framework to adapt our solutions according to both current and estimated future passenger demand. [ICCPS 2018, TMC]
-
-----
-## Occupancy Patten Modeling and Prediction for Effective HVAC Control
-
-<img src="/images/hvaccontrol.png" title="HVAC" style="float:left;width:300pt;padding-right:10px;" />
-
-
-With long-term occupant-count data collected from a commercial building, we develop models to capture occupancy dynamics and predict future occupancy patterns. We design an adaptive model predictive controller to minimize inefficient control actions according to different types of misprediction and occupancy states. Our control design provides probabilistic guarantees on the control cost under occupancy prediction uncertainty. [IoTDI 2020]
-
+<div class="project-card">
+  <img src="/images/hvaccontrol.png" alt="Occupancy-aware building control framework" />
+  <h2>Smart Infrastructure and the Internet of Things</h2>
+  <p>We use connected sensing, edge computing, and data-driven control to improve buildings and infrastructure. Topics include indoor environmental quality, occupancy modeling, heating and cooling control, federated intelligence, and edge-assisted autonomous systems.</p>
+  <div class="project-tags">Internet of Things · Smart buildings · Edge computing · Data-driven control</div>
+</div>

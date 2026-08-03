@@ -1,0 +1,63 @@
+/* Focused visual improvements that preserve the AcademicPages template. */
+:root {
+  --yy-ink: #263746;
+  --yy-muted: #667681;
+  --yy-blue: #2f6f8f;
+  --yy-blue-dark: #235670;
+  --yy-blue-pale: #edf5f7;
+  --yy-line: #dfe5e7;
+  --yy-canvas: #f7f8f8;
+}
+
+body { color: var(--yy-ink); }
+.masthead { border-bottom: 1px solid var(--yy-line); box-shadow: 0 1px 8px rgba(38,55,70,.04); }
+.greedy-nav a { color: #43535d; }
+.greedy-nav .visible-links a::before { background: var(--yy-blue); height: 2px; }
+.author__avatar img { border: 1px solid var(--yy-line); box-shadow: none; }
+.author__name { font-family: Georgia, "Times New Roman", serif; letter-spacing: -.02em; }
+.author__bio { color: var(--yy-muted); line-height: 1.55; }
+.author__urls a:hover { color: var(--yy-blue-dark); }
+.page__content { color: #40535f; }
+.page__content h1, .page__content h2, .page__content h3 { color: var(--yy-ink); font-family: Georgia, "Times New Roman", serif; letter-spacing: -.02em; }
+.page__content h2 { margin-top: 2.3em; padding-bottom: .35em; border-bottom: 1px solid var(--yy-line); }
+.page__content a { color: var(--yy-blue-dark); }
+
+.home-intro { margin-bottom: 2rem; padding-bottom: 1.7rem; border-bottom: 1px solid var(--yy-line); }
+.home-eyebrow { margin: 0 0 .7rem; color: var(--yy-blue); font-size: .68rem; font-weight: 700; text-transform: uppercase; letter-spacing: .14em; }
+.home-intro h1 { max-width: 760px; margin: 0 0 1.2rem; font-size: clamp(2rem, 4vw, 3.15rem); line-height: 1.08; }
+.home-intro p:not(.home-eyebrow) { max-width: 820px; font-size: 1rem; line-height: 1.75; }
+.quick-links { display: flex; flex-wrap: wrap; gap: .65rem; margin-top: 1.35rem; }
+.quick-links a { padding: .6rem .85rem; border: 1px solid var(--yy-blue); border-radius: 3px; color: var(--yy-blue-dark); font-size: .78rem; font-weight: 700; text-decoration: none; }
+.quick-links a:first-child { background: var(--yy-blue); color: #fff; }
+.quick-links a:hover { background: var(--yy-blue-dark); border-color: var(--yy-blue-dark); color: #fff; }
+
+.opening-note { margin: 1.7rem 0 2.2rem; padding: 1.25rem 1.4rem; border: 1px solid #cfe0e5; border-left: 4px solid var(--yy-blue); background: var(--yy-blue-pale); }
+.opening-note strong { display: block; margin-bottom: .4rem; color: var(--yy-blue-dark); font-size: .72rem; text-transform: uppercase; letter-spacing: .1em; }
+.opening-note p { margin: 0; font-size: .92rem; line-height: 1.65; }
+
+.research-focus-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: .8rem; margin: 1.2rem 0 2rem; }
+.research-focus-card { padding: 1.15rem; border: 1px solid var(--yy-line); background: var(--yy-canvas); }
+.research-focus-card span { color: var(--yy-blue); font-size: .65rem; font-weight: 800; letter-spacing: .1em; }
+.research-focus-card h3 { margin: 1.25rem 0 .55rem; font-size: 1rem; line-height: 1.25; }
+.research-focus-card p { margin: 0; color: var(--yy-muted); font-size: .78rem; line-height: 1.6; }
+
+.news-list { margin: 1rem 0 0; padding: 0; list-style: none; border-top: 1px solid var(--yy-line); }
+.news-list li { display: grid; grid-template-columns: 6.2rem 1fr; gap: 1rem; padding: .8rem 0; border-bottom: 1px solid var(--yy-line); line-height: 1.55; }
+.news-date { color: var(--yy-blue); font-size: .7rem; font-weight: 700; text-transform: uppercase; letter-spacing: .04em; }
+
+.project-card { clear: both; margin: 1.2rem 0; padding: 1.25rem; overflow: auto; border: 1px solid var(--yy-line); background: #fff; }
+.project-card img { width: 270px; margin: 0 1.2rem .7rem 0; float: left; }
+.project-card h2 { margin: 0 0 .65rem; padding: 0; border: 0; font-size: 1.25rem; }
+.project-card p { margin: 0; line-height: 1.68; }
+.project-tags { margin-top: .75rem; color: var(--yy-blue); font-size: .72rem; font-weight: 700; }
+
+.course-grid { display: grid; grid-template-columns: repeat(2,1fr); gap: .85rem; margin: 1.3rem 0; }
+.course-card { padding: 1.2rem; border-top: 3px solid var(--yy-blue); background: var(--yy-canvas); }
+.course-card h3 { margin: 0 0 .55rem; font-size: 1rem; }
+.course-card p { margin: 0; color: var(--yy-muted); font-size: .8rem; line-height: 1.6; }
+
+@media (max-width: 800px) {
+  .research-focus-grid, .course-grid { grid-template-columns: 1fr; }
+  .news-list li { grid-template-columns: 5rem 1fr; }
+  .project-card img { width: 100%; margin: 0 0 1rem; float: none; }
+}
