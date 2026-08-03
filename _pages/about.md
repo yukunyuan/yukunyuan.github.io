@@ -12,12 +12,6 @@ redirect_from:
   <p class="home-eyebrow">Assistant Professor · Computer Science &amp; Engineering</p>
   <p>I am a tenure-track Assistant Professor in the Department of Computer Science and Engineering at the University of Tennessee at Chattanooga. I received my Ph.D. in Computer Engineering from Stony Brook University in 2022, where I worked with Professor <a href="https://www.ece.sunysb.edu/~slin/">Shan Lin</a>, and my B.S. in Computer Science from Shanghai Jiao Tong University in 2015.</p>
   <p>My research connects cyber-physical systems, machine learning, control, and data science to improve urban services, mobility, energy systems, and smart infrastructure.</p>
-  <div class="quick-links">
-    <a href="/research/">Explore research</a>
-    <a href="/publications/">Publications</a>
-    <a href="https://scholar.google.com/citations?hl=en&amp;user=mGnjOOUAAAAJ">Google Scholar</a>
-    <a href="/cv/">Curriculum vitae</a>
-  </div>
 </div>
 
 <div class="opening-note">
