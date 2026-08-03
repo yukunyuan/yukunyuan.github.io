@@ -10,13 +10,13 @@ redirect_from:
 
 <div class="home-intro">
   <p class="home-eyebrow">Assistant Professor · Computer Science &amp; Engineering</p>
-  <p>I am a tenure-track Assistant Professor in the Department of Computer Science and Engineering at the University of Tennessee at Chattanooga. I received my ~~Ph.D.~~ in Computer Engineering from Stony Brook University in 2022, where I worked with Professor <a href="https://www.ece.sunysb.edu/~slin/">Shan Lin</a>, and my B.S. in Computer Science from Shanghai Jiao Tong University in 2015.</p>
+  <p>I am a tenure-track Assistant Professor in the Department of Computer Science and Engineering at the University of Tennessee at Chattanooga. I received my Ph.D. in Computer Engineering from Stony Brook University in 2022, where I worked with Professor <a href="https://www.ece.sunysb.edu/~slin/">Shan Lin</a>, and my B.S. in Computer Science from Shanghai Jiao Tong University in 2015.</p>
   <p>My research connects cyber-physical systems, machine learning, control, and data science to improve urban services, mobility, energy systems, and smart infrastructure.</p>
 </div>
 
 <div class="opening-note">
   <strong>Student openings</strong>
-  <p>I welcome inquiries from motivated Ph.D., master's, and undergraduate students interested in smart cities, cyber-physical systems, machine learning, and control. Please email <a href="mailto:yukun-yuan@utc.edu">yukun-yuan@utc.edu</a> with your CV and a short description of your research interests.</p>
+  <p>I welcome inquiries from motivated ~~Ph.D.,~~ master's, and undergraduate students interested in smart cities, cyber-physical systems, machine learning, and control. Please email <a href="mailto:yukun-yuan@utc.edu">yukun-yuan@utc.edu</a> with your CV and a short description of your research interests.</p>
 </div>
 
 
