@@ -25,7 +25,7 @@ Recent news
 ===========
 
 <ul class="news-list">
-  <li><span class="news-date">Aug 2026</span><span><strong>Grant:</strong> Project funded by NSF HBCU EiR. <a href="https://www.nsf.gov/awardsearch/show-award?AWD_ID=2602886">Award information</a>.</span></li>
+  
   <li><span class="news-date">Dec 2025</span><span>One paper accepted by <a href="https://infocom2026.ieee-infocom.org/">IEEE INFOCOM 2026</a>.</span></li>
   <li><span class="news-date">Aug 2025</span><span>Two papers accepted by <a href="https://sigspatial2025.sigspatial.org/">ACM SIGSPATIAL 2025</a>.</span></li>
   <li><span class="news-date">Jun 2025</span><span>One paper accepted by <a href="https://dl.acm.org/journal/tcps">ACM Transactions on Cyber-Physical Systems</a>.</span></li>
