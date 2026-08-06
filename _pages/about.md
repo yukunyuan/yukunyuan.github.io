@@ -21,7 +21,7 @@ redirect_from:
 
 
 
-Recent news
+Recent News
 ===========
 
 <ul class="news-list">
