@@ -7,11 +7,7 @@ author_profile: true
 
 My group studies learning and control methods for systems in which people, physical infrastructure, and data interact. Our work connects mathematical models with data-driven evaluation and real-world implementation.
 
-<div class="project-card">
-  <h2>Human-Aligned Cyber-Physical Systems</h2>
-  <p>We develop sensing and control methods for service-oriented systems that rely on incomplete and selective human-generated data. Current work studies latent service-demand estimation, service-requirement learning, constrained resource allocation, control-faithful explanations, and long-term human-system feedback.</p>
-  <div class="project-tags">Human-generated sensing · Bayesian inference · Constrained reinforcement learning · Closed-loop analysis</div>
-</div>
+
 
 <div class="project-card">
   <img src="/images/p2charging.png" alt="Electric taxi charging and dispatch coordination framework" />
