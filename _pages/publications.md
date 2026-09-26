@@ -8,8 +8,6 @@ author_profile: true
 {% include base_path %}
 
 <div class="publications-intro">
-  <p class="page-kicker">Research output</p>
-  <h1>Publications</h1>
   <p>My work spans cyber-physical systems, smart cities, electric mobility and energy, edge computing, and machine learning. Student authors under my supervision are <u>underlined</u>.</p>
   <div class="publication-jump">
     <a href="#conference-papers">Conference papers</a>
