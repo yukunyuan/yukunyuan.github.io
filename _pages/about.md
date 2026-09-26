@@ -26,12 +26,6 @@ redirect_from:
   <p>I welcome inquiries from motivated <del>Ph.D.,</del> master's, and undergraduate students interested in smart cities, cyber-physical systems, machine learning, and control. Please email <a href="mailto:yukun-yuan@utc.edu">yukun-yuan@utc.edu</a> with your CV and a short description of your research interests.</p>
 </div>
 
-<div class="home-section-heading">
-  <span>Research</span>
-  <h2>Research Focus</h2>
-</div>
-
-
 
 <div class="home-section-heading home-section-heading--news">
   <h2>Recent News</h2>
