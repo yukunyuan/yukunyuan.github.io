@@ -6,7 +6,18 @@ author_profile: true
 ---
 
 {% include base_path %}
-<u>Underline authors</u> are the students under my supervision.
+
+<div class="publications-intro">
+  <p class="page-kicker">Research output</p>
+  <h1>Publications</h1>
+  <p>My work spans cyber-physical systems, smart cities, electric mobility and energy, edge computing, and machine learning. Student authors under my supervision are <u>underlined</u>.</p>
+  <div class="publication-jump">
+    <a href="#conference-papers">Conference papers</a>
+    <a href="#journal-papers">Journal papers</a>
+    <a href="https://scholar.google.com/citations?hl=en&amp;user=mGnjOOUAAAAJ">Google Scholar ↗</a>
+  </div>
+</div>
+<div class="publication-section" id="conference-papers" markdown="1">
 
 ## Conference Papers
 
@@ -334,6 +345,10 @@ doi={10.1109/ICDCS.2019.00074}}
 </pre></div>  
 
 
+</div>
+
+<div class="publication-section" id="journal-papers" markdown="1">
+
 ## Journal Papers
 
 * [Stochastic Model Predictive Control-based Electric Taxi Fleet Coordination under Solar Power Uncertainty](https://dl.acm.org/doi/abs/10.1145/3744748)\
@@ -412,6 +427,10 @@ year={2021},  volume={},  number={},  pages={1-1},
 doi={10.1109/TMC.2021.3091324}}
 </pre></div>  
 
+</div>
+
+<div class="publication-section" id="poster-abstract" markdown="1">
+
 ## Poster & Abstract
 
 * [Non-Intrusive Speaker Diarization via mmWave Sensing](https://dl.acm.org/doi/10.1145/3715014.3724074).<br>
@@ -426,3 +445,6 @@ Shaoying Wang, Hansong Zhou, **Yukun Yuan**, Xiaonan Zhang.
 
 
 
+
+
+</div>
