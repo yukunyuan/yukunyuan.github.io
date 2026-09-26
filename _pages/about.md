@@ -10,7 +10,6 @@ redirect_from:
 
 <div class="home-intro">
   <p class="home-eyebrow">Assistant Professor · Computer Science &amp; Engineering</p>
-  <h1>Cyber-physical systems and machine learning for smarter urban infrastructure.</h1>
   <p>I am a tenure-track Assistant Professor in the Department of Computer Science and Engineering at the University of Tennessee at Chattanooga. I received my Ph.D. in Computer Engineering from Stony Brook University in 2022, where I worked with Professor <a href="https://www.ece.sunysb.edu/~slin/">Shan Lin</a>, and my B.S. in Computer Science from Shanghai Jiao Tong University in 2015.</p>
   <p>My research connects cyber-physical systems, machine learning, control, and data science to improve urban services, mobility, energy systems, and smart infrastructure.</p>
 
@@ -32,26 +31,9 @@ redirect_from:
   <h2>Research Focus</h2>
 </div>
 
-<div class="research-focus-grid">
-  <a class="research-focus-card" href="/research/">
-    <span>01</span>
-    <h3>Human-Aligned Cyber-Physical Systems</h3>
-    <p>Sensing, learning, and control methods that account for human-generated data, service requirements, and feedback.</p>
-  </a>
-  <a class="research-focus-card" href="/research/">
-    <span>02</span>
-    <h3>Smart Cities &amp; Urban Services</h3>
-    <p>Data-driven methods for municipal services and urban infrastructure using real-world sensing and operational data.</p>
-  </a>
-  <a class="research-focus-card" href="/research/">
-    <span>03</span>
-    <h3>Mobility &amp; Energy Systems</h3>
-    <p>Coordination and control of electric mobility, charging systems, and transportation-energy interactions.</p>
-  </a>
-</div>
+
 
 <div class="home-section-heading home-section-heading--news">
-  <span>Updates</span>
   <h2>Recent News</h2>
 </div>
 
