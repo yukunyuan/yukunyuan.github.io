@@ -10,8 +10,16 @@ redirect_from:
 
 <div class="home-intro">
   <p class="home-eyebrow">Assistant Professor · Computer Science &amp; Engineering</p>
+  <h1>Cyber-physical systems and machine learning for smarter urban infrastructure.</h1>
   <p>I am a tenure-track Assistant Professor in the Department of Computer Science and Engineering at the University of Tennessee at Chattanooga. I received my Ph.D. in Computer Engineering from Stony Brook University in 2022, where I worked with Professor <a href="https://www.ece.sunysb.edu/~slin/">Shan Lin</a>, and my B.S. in Computer Science from Shanghai Jiao Tong University in 2015.</p>
   <p>My research connects cyber-physical systems, machine learning, control, and data science to improve urban services, mobility, energy systems, and smart infrastructure.</p>
+
+  <div class="quick-links" aria-label="Quick links">
+    <a href="/publications/">Publications</a>
+    <a href="/research/">Research</a>
+    <a href="https://scholar.google.com/citations?hl=en&amp;user=mGnjOOUAAAAJ">Google Scholar</a>
+    <a href="/cv/">CV</a>
+  </div>
 </div>
 
 <div class="opening-note">
@@ -19,10 +27,33 @@ redirect_from:
   <p>I welcome inquiries from motivated <del>Ph.D.,</del> master's, and undergraduate students interested in smart cities, cyber-physical systems, machine learning, and control. Please email <a href="mailto:yukun-yuan@utc.edu">yukun-yuan@utc.edu</a> with your CV and a short description of your research interests.</p>
 </div>
 
+<div class="home-section-heading">
+  <span>Research</span>
+  <h2>Research Focus</h2>
+</div>
 
+<div class="research-focus-grid">
+  <a class="research-focus-card" href="/research/">
+    <span>01</span>
+    <h3>Human-Aligned Cyber-Physical Systems</h3>
+    <p>Sensing, learning, and control methods that account for human-generated data, service requirements, and feedback.</p>
+  </a>
+  <a class="research-focus-card" href="/research/">
+    <span>02</span>
+    <h3>Smart Cities &amp; Urban Services</h3>
+    <p>Data-driven methods for municipal services and urban infrastructure using real-world sensing and operational data.</p>
+  </a>
+  <a class="research-focus-card" href="/research/">
+    <span>03</span>
+    <h3>Mobility &amp; Energy Systems</h3>
+    <p>Coordination and control of electric mobility, charging systems, and transportation-energy interactions.</p>
+  </a>
+</div>
 
-Recent News
-===========
+<div class="home-section-heading home-section-heading--news">
+  <span>Updates</span>
+  <h2>Recent News</h2>
+</div>
 
 <ul class="news-list">
   <li><span class="news-date">Sep 2026</span><span>One paper accepted by <a href="https://www.sigmobile.org/mobihoc/2026/">ACM MobiHoc 2026</a>.</span></li>
